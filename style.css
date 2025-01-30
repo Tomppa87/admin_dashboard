@@ -131,8 +131,7 @@ li img {
     box-shadow:10px 0 var(--side_blue) inset, 3px 3px 3px black;
     padding: 35px;
 }
-.project_card h4,
-/*.announcement_box h4*/ {
+.project_card h4 {
     margin-top: 0;
 }
 
